@@ -1,0 +1,41 @@
+.card {
+    border: none;
+    box-shadow: 0 10px 40px 0 rgba(0,0,0,.1);
+  }
+
+.custom-panel {
+    border: none;
+    box-shadow: 0 10px 40px 0 rgba(0,0,0,.1);
+    background-color: white;
+}
+
+.big-banner {
+    background: none;
+}
+body {
+    background-image: url("../images/cool-background.png");
+    background-size: auto;
+    background-attachment: fixed;
+}
+
+.navbar {
+    background-color: #87b7ff;
+    font-family: 'Roboto Slab', serif !important;
+}
+
+.navbar-custom {
+    background-color: #87b7ff;
+    font-family: 'Roboto Slab', serif !important;
+}
+
+.page-header {
+    font-family: 'Roboto Slab', serif !important;
+}
+
+.card-title {
+    font-family: 'Roboto Slab', serif !important;
+}
+
+.nav-item {
+    font-family: 'Roboto Slab', serif;
+}
