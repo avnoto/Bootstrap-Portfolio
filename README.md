@@ -7,7 +7,8 @@ After I commited it, I noticed an error in my code- there was a extra spacing wi
 
 *Update* 
 
-Pushed changes: 
+Pushed changes:
+
 -spacing of a tags for social media icons
 -added hr tags for thematic breaks between container titles and their paragraphs
 -fixed Contact Form; user can now enter their name in the 'name' line rather than email. Email is on second line.
